@@ -7,15 +7,7 @@
 <title>
 Mederipedia</title>
 </head>
-<table border="1">
-  <tr>
-     <th><p><h2>     <a HREF="..\Mederipedia.html">  Mederipedia</a>      </p></h2></th>
-    <th><p><h2>     <a HREF="reik.html">Reik</a>      </p></h2></th>
-    <th><p><h2>     <a HREF="genero reik.html">  Genero</a>        </p></h2></th>
-    <th><p><h2>   <a HREF="Premios reik.html">    Premios  </a>     </p></h2></th>
-    <th><p><h2>    <a HREF="Discografia reik.html"> Discografia  </a>   </p></h2></th>
-  </tr>
-</table
+
 <body>
 <h1><p><b> <blink>Premios</blink></b></p></h1>
 <center><table border="1"> 
